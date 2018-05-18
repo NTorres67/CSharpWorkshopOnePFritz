@@ -17,6 +17,7 @@ namespace CSharpWorkshopOnePFritz
 
             Console.WriteLine($"Maria's care is the color {mariasRealCar.Color}");
 
+
         }
     }
 }
